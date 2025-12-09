@@ -14803,3 +14803,12 @@ Entries:
   id: 1641
   time: '2025-12-09T12:58:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2762
+- author: Avalon-Proto
+  changes:
+    - type: Add
+      message: A new pulse cannon from he corporate war has been seen in sector
+    - type: Tweak
+      message: NT Lootcrates contents adjusted
+  id: 1642
+  time: '2025-12-09T13:59:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2515
