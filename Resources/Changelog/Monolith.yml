@@ -15128,3 +15128,16 @@ Entries:
   id: 1677
   time: '2025-12-23T16:10:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2815
+- author: Avalon-Proto
+  changes:
+    - type: Add
+      message: >-
+        Grand Viziers have been equipped with weapons more fitting of their
+        office, alongside a sheath and holster to carry them
+    - type: Tweak
+      message: >-
+        The Hawk is now given to Spasaka on spawn, but has received a small nerf
+        to compesate
+  id: 1678
+  time: '2025-12-23T16:11:49.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2814
