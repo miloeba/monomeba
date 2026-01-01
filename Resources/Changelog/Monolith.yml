@@ -15593,3 +15593,10 @@ Entries:
   id: 1731
   time: '2026-01-01T16:50:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2879
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: DoC now answers directly to the Overseer.
+  id: 1732
+  time: '2026-01-01T18:49:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2921
