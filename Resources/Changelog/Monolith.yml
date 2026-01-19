@@ -16403,3 +16403,19 @@ Entries:
   id: 1816
   time: '2026-01-19T18:30:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3026
+- author: Helicaste
+  changes:
+    - type: Tweak
+      message: >-
+        Curio-8640 Plasma Lances have had their magnetic coils re-tuned by the
+        ADS Overmind. They now propel plasma much faster, though not much
+        further.
+    - type: Tweak
+      message: >-
+        L-20 Apollo Mining Lasers have received a proprietary software patch,
+        forcing it to disperse heat and cool down after continuous firing. This
+        has improved its overall recharge rate to further adapt to its role as a
+        Mining implement.
+  id: 1817
+  time: '2026-01-19T18:36:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3023
