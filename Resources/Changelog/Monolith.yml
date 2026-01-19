@@ -16382,3 +16382,10 @@ Entries:
   id: 1813
   time: '2026-01-19T18:16:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3064
+- author: FloatingFeeling
+  changes:
+    - type: Tweak
+      message: The Duran has been updated the current mapping standards.
+  id: 1814
+  time: '2026-01-19T18:26:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3062
