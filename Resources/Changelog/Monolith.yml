@@ -16465,3 +16465,12 @@ Entries:
   id: 1823
   time: '2026-01-21T17:57:50.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3092
+- author: Arcticular1
+  changes:
+    - type: Add
+      message: >-
+        The PDW Neptune has hit the PDV shipyard. It's a heavy corvette with 4
+        torpedoes, heavy armor and lots of Fangs.
+  id: 1824
+  time: '2026-01-21T18:17:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3061
