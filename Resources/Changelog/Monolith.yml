@@ -16670,3 +16670,16 @@ Entries:
   id: 1846
   time: '2026-01-26T16:06:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2965
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Mini-hypos are generally better now.
+    - type: Tweak
+      message: >-
+        Advanced chemicals now have 0.15u metabolism rate. Pyrazine healing was
+        buffed to 2. 
+    - type: Tweak
+      message: Overseer's heavy maul sprite received changes.
+  id: 1847
+  time: '2026-01-26T16:06:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3095
