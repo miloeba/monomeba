@@ -16777,3 +16777,12 @@ Entries:
   id: 1857
   time: '2026-01-31T22:24:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3127
+- author: Helicaste
+  changes:
+    - type: Add
+      message: >-
+        The Double-Bladed Energy Sword has been added to the uplinks of Denasvar
+        and above. Not accessible to Rahks or Spasaka.
+  id: 1858
+  time: '2026-01-31T22:38:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3143
