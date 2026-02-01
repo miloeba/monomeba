@@ -16823,3 +16823,19 @@ Entries:
   id: 1862
   time: '2026-02-01T18:32:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3138
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: make law 6 actually exist
+    - type: Tweak
+      message: Cleaned up ADS laws.
+    - type: Tweak
+      message: >-
+        ADS is now less encouraged to use non-damaging methods and may attack
+        you for more reasons (like broadband banter), but may choose to leave
+        drone or chimera hunters alone.
+    - type: Fix
+      message: ADS law 6 now actually shows up.
+  id: 1863
+  time: '2026-02-01T18:35:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3132
