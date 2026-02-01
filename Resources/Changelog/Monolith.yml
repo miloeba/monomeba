@@ -16878,3 +16878,12 @@ Entries:
   id: 1867
   time: '2026-02-01T18:58:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3136
+- author: doktor-gonz0
+  changes:
+    - type: Tweak
+      message: The volume of hydrakin talk sounds has been lowered.
+    - type: Fix
+      message: 'Hydrakin eye markings now layer over other markings. '
+  id: 1868
+  time: '2026-02-01T19:06:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3144
