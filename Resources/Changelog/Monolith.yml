@@ -16814,3 +16814,12 @@ Entries:
   id: 1861
   time: '2026-02-01T18:31:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3148
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Grid component radar blips now display more compactly.
+    - type: Fix
+      message: Fixed radar blips not respecting IFF.
+  id: 1862
+  time: '2026-02-01T18:32:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3138
